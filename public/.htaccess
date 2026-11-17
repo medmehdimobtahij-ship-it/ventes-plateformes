@@ -1,0 +1,22 @@
+# Ventes plateformes : tout ce qui n'est pas un fichier de l'interface passe par index.php (page + API).
+Require all granted
+DirectoryIndex index.php
+Options -Indexes
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^routeur\.php$ - [F]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ index.php [L,QSA]
+</IfModule>
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "DENY"
+  Header always set Referrer-Policy "same-origin"
+  Header always unset X-Powered-By
+  <FilesMatch "\.(js|css|png|svg)$">
+    # Fichiers de l'interface (servis sans PHP) : mêmes protections que les pages, que PHP pose lui-même (index.php).
+    Header set Cache-Control "no-cache"
+    Header set Cross-Origin-Resource-Policy "same-origin"
+    Header set Strict-Transport-Security "max-age=63072000; includeSubDomains" env=HTTPS
+  </FilesMatch>
+</IfModule>

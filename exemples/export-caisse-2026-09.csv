@@ -1,0 +1,1181 @@
+Date,Status,Platform,Store,"Order ID","Order Price","Product EAN","Product Name",Quantity,"Product Price","Product Discount","Product VAT"
+"01/09/2026 10:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-84FE96,13.09,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"01/09/2026 10:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-84FE96,13.09,2000000000158,"Wrap poulet",2,9.8,,10
+"01/09/2026 10:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8469405,21.66,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"01/09/2026 10:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8469405,21.66,2000000000165,"Lasagnes à réchauffer",1,5.9,1,10
+"01/09/2026 10:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8469405,21.66,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"01/09/2026 10:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8469405,21.66,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"01/09/2026 10:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8469405,21.66,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"01/09/2026 11:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1B105E,8.44,2000000000196,"Piles AA x4",1,5.99,,20
+"01/09/2026 11:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1B105E,8.44,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"01/09/2026 11:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3140939,13.47,2000000000202,"Papier toilette x6",1,3.49,,20
+"01/09/2026 11:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3140939,13.47,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"01/09/2026 11:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3140939,13.47,2000000000066,"Pain de mie complet",1,,,5.5
+"01/09/2026 11:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3140939,13.47,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"01/09/2026 11:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D26C78,9.81,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"01/09/2026 11:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D26C78,9.81,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"01/09/2026 11:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D26C78,9.81,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"01/09/2026 11:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D26C78,9.81,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"01/09/2026 14:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7A1C2E,15.99,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"01/09/2026 14:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7A1C2E,15.99,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"01/09/2026 14:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7A1C2E,15.99,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"01/09/2026 14:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7A1C2E,15.99,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"01/09/2026 14:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7A1C2E,15.99,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"01/09/2026 15:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9248FC,17.82,2000000000196,"Piles AA x4",1,5.99,,20
+"01/09/2026 15:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9248FC,17.82,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"01/09/2026 15:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9248FC,17.82,2000000000011,"Lait demi-écrémé 1 L",1,1.45,0.29,5.5
+"01/09/2026 15:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9248FC,17.82,2000000000141,"Salade composée",1,5.2,,10
+"01/09/2026 16:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4254537,1.35,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"01/09/2026 18:13",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-36A4E8,1.45,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"01/09/2026 18:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CDC1B,11.98,2000000000196,"Piles AA x4",2,11.98,,20
+"01/09/2026 20:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EEB579,12.75,2000000000202,"Papier toilette x6",2,6.98,,20
+"01/09/2026 20:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EEB579,12.75,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"01/09/2026 20:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EEB579,12.75,2000000000080,"Bananes 1 kg",1,2.39,0.48,5.5
+"01/09/2026 20:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EEB579,12.75,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"01/09/2026 22:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5FF0F,7.66,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"01/09/2026 22:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5FF0F,7.66,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"01/09/2026 22:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5FF0F,7.66,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"01/09/2026 23:35",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7763880,2.59,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"01/09/2026 23:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7687507,1.29,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"02/09/2026 11:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-088210,11.67,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"02/09/2026 11:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-088210,11.67,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"02/09/2026 11:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-088210,11.67,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"02/09/2026 11:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-088210,11.67,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"02/09/2026 11:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-088210,11.67,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"02/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-20D1B3,25.55,2000000000202,"Papier toilette x6",1,3.49,,20
+"02/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-20D1B3,25.55,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"02/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-20D1B3,25.55,2000000000141,"Salade composée",2,10.4,2.08,10
+"02/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-20D1B3,25.55,2000000000202,"Papier toilette x6",2,6.98,,20
+"02/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-20D1B3,25.55,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"02/09/2026 13:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8654509,3.78,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"02/09/2026 13:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8654509,3.78,2000000000226,"Liquide vaisselle 500 ml",1,1.89,1,5.5
+"02/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-923380,25.82,2000000000158,"Wrap poulet",1,4.9,,10
+"02/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-923380,25.82,2000000000158,"Wrap poulet",2,9.8,,10
+"02/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-923380,25.82,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"02/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-923380,25.82,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"02/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-923380,25.82,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"02/09/2026 17:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-914525,15.3,2000000000141,"Salade composée",2,10.4,2.08,10
+"02/09/2026 17:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-914525,15.3,2000000000158,"Wrap poulet",1,4.9,,10
+"02/09/2026 17:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3634037,31.2,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"02/09/2026 17:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3634037,31.2,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"02/09/2026 17:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3634037,31.2,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"02/09/2026 17:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3634037,31.2,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"02/09/2026 17:53",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3634037,31.2,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"02/09/2026 18:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D86FDA,9.32,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"02/09/2026 18:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D86FDA,9.32,2000000000073,"Yaourts nature x4",1,1.99,0.4,5.5
+"02/09/2026 18:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D86FDA,9.32,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"02/09/2026 18:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D86FDA,9.32,2000000000172,"Bière blonde 50 cl",1,2.45,0.49,20
+"02/09/2026 18:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9C2813,2.19,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"02/09/2026 18:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9C2813,2.19,2000000000226,"Liquide vaisselle 500 ml",1,,,5.5
+"02/09/2026 20:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6222439,3.49,2000000000202,"Papier toilette x6",1,3.49,,20
+"02/09/2026 20:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-982AB4,3.49,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 10:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1686907,28.92,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"03/09/2026 10:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1686907,28.92,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"03/09/2026 10:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1686907,28.92,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"03/09/2026 10:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1686907,28.92,2000000000196,"Piles AA x4",2,11.98,1,20
+"03/09/2026 10:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1686907,28.92,2000000000141,"Salade composée",2,10.4,,10
+"03/09/2026 12:24",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6414424,9.8,2000000000158,"Wrap poulet",2,9.8,,10
+"03/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C82BA2,11.16,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"03/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C82BA2,11.16,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"03/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C82BA2,11.16,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"03/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C82BA2,11.16,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C82BA2,11.16,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"03/09/2026 13:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5265708,6.37,2000000000127,"Chips nature 150 g",1,1.89,1,5.5
+"03/09/2026 13:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5265708,6.37,2000000000103,"Soda cola 33 cl",2,2.7,0.54,5.5
+"03/09/2026 13:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5265708,6.37,2000000000035,"Eau minérale 1,5 L",2,1.78,0.36,5.5
+"03/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CF51B,13.61,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"03/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CF51B,13.61,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"03/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CF51B,13.61,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CF51B,13.61,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"03/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1CF51B,13.61,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"03/09/2026 15:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8E36F1,15.76,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"03/09/2026 15:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8E36F1,15.76,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"03/09/2026 15:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8E36F1,15.76,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"03/09/2026 15:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8E36F1,15.76,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"03/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95E654,11.66,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"03/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95E654,11.66,2000000000189,"Lessive liquide 1,5 L",1,,,20
+"03/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95E654,11.66,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"03/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95E654,11.66,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"03/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95E654,11.66,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 16:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9750786,13.55,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"03/09/2026 16:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9750786,13.55,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"03/09/2026 16:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9750786,13.55,2000000000141,"Salade composée",1,5.2,,10
+"03/09/2026 16:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6466622,6.07,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 16:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6466622,6.07,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"03/09/2026 20:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AB2BD,28.04,2000000000196,"Piles AA x4",1,5.99,,20
+"03/09/2026 20:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AB2BD,28.04,2000000000141,"Salade composée",2,10.4,,10
+"03/09/2026 20:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AB2BD,28.04,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"03/09/2026 20:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AB2BD,28.04,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"03/09/2026 20:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AB2BD,28.04,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"03/09/2026 20:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-496B70,14.98,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"03/09/2026 20:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-496B70,14.98,2000000000202,"Papier toilette x6",1,3.49,,20
+"03/09/2026 20:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-496B70,14.98,2000000000134,"Sandwich jambon-beurre",1,4.5,1,10
+"03/09/2026 20:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-496B70,14.98,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"03/09/2026 20:52",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6DAA00,8.64,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"03/09/2026 20:52",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6DAA00,8.64,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"03/09/2026 20:52",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6DAA00,8.64,2000000000158,"Wrap poulet",1,4.9,,10
+"03/09/2026 21:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D30DC,5.62,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"03/09/2026 21:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D30DC,5.62,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"03/09/2026 21:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D30DC,5.62,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"04/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-864703,5.88,2000000000202,"Papier toilette x6",1,3.49,,20
+"04/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-864703,5.88,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"04/09/2026 11:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1497930,14.41,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"04/09/2026 11:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1497930,14.41,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"04/09/2026 11:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1497930,14.41,2000000000196,"Piles AA x4",1,5.99,,20
+"04/09/2026 11:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1497930,14.41,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"04/09/2026 11:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1497930,14.41,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"04/09/2026 11:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED82E9,22.96,2000000000196,"Piles AA x4",1,5.99,,20
+"04/09/2026 11:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED82E9,22.96,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"04/09/2026 11:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED82E9,22.96,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"04/09/2026 11:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED82E9,22.96,2000000000141,"Salade composée",1,5.2,1,10
+"04/09/2026 11:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED82E9,22.96,2000000000196,"Piles AA x4",1,5.99,,20
+"04/09/2026 13:23",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7583787,10.28,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"04/09/2026 13:23",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7583787,10.28,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"04/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED62C3,9.34,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"04/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-ED62C3,9.34,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"04/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-445CD7,14.67,2000000000158,"Wrap poulet",1,4.9,,10
+"04/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-445CD7,14.67,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"04/09/2026 15:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-445CD7,14.67,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"04/09/2026 17:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F38597,15.77,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"04/09/2026 17:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F38597,15.77,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"04/09/2026 17:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6832131,2.45,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"04/09/2026 18:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD723D,22.65,2000000000066,"Pain de mie complet",2,4.98,1,5.5
+"04/09/2026 18:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD723D,22.65,2000000000158,"Wrap poulet",2,9.8,,10
+"04/09/2026 18:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD723D,22.65,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"04/09/2026 18:23",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD723D,22.65,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"04/09/2026 19:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1050950,3.29,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"04/09/2026 20:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2B2C7,7.92,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"04/09/2026 20:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2B2C7,7.92,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"04/09/2026 20:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2B2C7,7.92,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"04/09/2026 20:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2B2C7,7.92,2000000000226,"Liquide vaisselle 500 ml",1,1.89,1,5.5
+"04/09/2026 20:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7739741,10.77,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"04/09/2026 20:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7739741,10.77,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"04/09/2026 20:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7739741,10.77,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"04/09/2026 21:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F37F55,13.18,2000000000141,"Salade composée",1,5.2,,10
+"04/09/2026 21:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F37F55,13.18,2000000000196,"Piles AA x4",1,5.99,,20
+"04/09/2026 21:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F37F55,13.18,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"04/09/2026 21:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EBC595,3.88,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"04/09/2026 21:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EBC595,3.88,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"05/09/2026 10:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1D9ABD,2.39,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"05/09/2026 10:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941963,16.88,2000000000196,"Piles AA x4",1,5.99,,20
+"05/09/2026 10:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941963,16.88,2000000000134,"Sandwich jambon-beurre",2,9,1.8,10
+"05/09/2026 10:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941963,16.88,2000000000226,"Liquide vaisselle 500 ml",1,1.89,0.38,5.5
+"05/09/2026 11:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8BAA6D,16.48,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"05/09/2026 11:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8BAA6D,16.48,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"05/09/2026 11:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8BAA6D,16.48,2000000000059,"Tablette chocolat noir 100 g",1,2.19,0.44,5.5
+"05/09/2026 12:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6948230,7.77,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"05/09/2026 12:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6948230,7.77,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"05/09/2026 12:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6948230,7.77,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"05/09/2026 12:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAA3B1,16.05,2000000000196,"Piles AA x4",2,11.98,,20
+"05/09/2026 12:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAA3B1,16.05,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"05/09/2026 12:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAA3B1,16.05,2000000000028,"Pâtes coquillettes 500 g",1,1.29,0.26,5.5
+"05/09/2026 12:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAA3B1,16.05,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"05/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3E1C1F,12.38,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"05/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3E1C1F,12.38,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"05/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3E1C1F,12.38,2000000000042,"Céréales au chocolat 375 g",1,3.89,0.78,5.5
+"05/09/2026 12:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2138615,20.98,2000000000097,"Riz basmati 1 kg",1,3.29,1,5.5
+"05/09/2026 12:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2138615,20.98,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"05/09/2026 12:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2138615,20.98,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"05/09/2026 12:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2138615,20.98,2000000000141,"Salade composée",1,5.2,,10
+"05/09/2026 15:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9260668,18.73,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"05/09/2026 15:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9260668,18.73,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"05/09/2026 15:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9260668,18.73,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"05/09/2026 15:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9260668,18.73,2000000000202,"Papier toilette x6",2,6.98,,20
+"05/09/2026 15:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9260668,18.73,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"05/09/2026 16:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4E5871,0.89,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"05/09/2026 18:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-767C5F,25.96,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"05/09/2026 18:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-767C5F,25.96,2000000000141,"Salade composée",2,10.4,,10
+"05/09/2026 18:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-767C5F,25.96,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"05/09/2026 18:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-767C5F,25.96,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"05/09/2026 22:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BE47E1,13.98,2000000000196,"Piles AA x4",1,5.99,,20
+"05/09/2026 22:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BE47E1,13.98,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"06/09/2026 10:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-91BA05,16.77,2000000000196,"Piles AA x4",2,11.98,,20
+"06/09/2026 10:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-91BA05,16.77,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"06/09/2026 10:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-91BA05,16.77,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"06/09/2026 10:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-91BA05,16.77,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"06/09/2026 11:08",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3466732,8.13,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"06/09/2026 11:08",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3466732,8.13,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"06/09/2026 11:08",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3466732,8.13,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"06/09/2026 11:08",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3466732,8.13,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"06/09/2026 11:08",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3466732,8.13,2000000000127,"Chips nature 150 g",1,1.89,0.38,5.5
+"06/09/2026 12:52",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-424B38,6.18,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"06/09/2026 12:52",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-424B38,6.18,2000000000059,"Tablette chocolat noir 100 g",1,2.19,0.44,5.5
+"06/09/2026 12:52",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-424B38,6.18,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"06/09/2026 13:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F61801,16.06,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"06/09/2026 13:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F61801,16.06,2000000000042,"Céréales au chocolat 375 g",1,3.89,1,5.5
+"06/09/2026 13:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F61801,16.06,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"06/09/2026 13:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F61801,16.06,2000000000158,"Wrap poulet",1,4.9,,10
+"06/09/2026 13:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F61801,16.06,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"06/09/2026 18:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-85B13C,12.85,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"06/09/2026 18:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-85B13C,12.85,2000000000202,"Papier toilette x6",2,6.98,,20
+"06/09/2026 18:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-85B13C,12.85,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"06/09/2026 19:29",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4475555,7.68,2000000000097,"Riz basmati 1 kg",2,,,5.5
+"06/09/2026 19:29",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4475555,7.68,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"06/09/2026 19:29",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4475555,7.68,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"06/09/2026 19:29",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4475555,7.68,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"06/09/2026 21:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6986943,16.79,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"06/09/2026 21:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6986943,16.79,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"06/09/2026 21:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6986943,16.79,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"06/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5BFEA,11.75,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"06/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5BFEA,11.75,2000000000059,"Tablette chocolat noir 100 g",1,2.19,0.44,5.5
+"06/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5BFEA,11.75,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"06/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F5BFEA,11.75,2000000000110,"Jus d'orange 1 L",1,,,5.5
+"06/09/2026 22:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2A7096,18.21,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"06/09/2026 22:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2A7096,18.21,2000000000141,"Salade composée",1,5.2,,10
+"06/09/2026 22:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2A7096,18.21,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"06/09/2026 22:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2A7096,18.21,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"06/09/2026 22:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2A7096,18.21,2000000000059,"Tablette chocolat noir 100 g",2,4.38,,5.5
+"06/09/2026 23:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-90E2C7,14.15,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"06/09/2026 23:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-90E2C7,14.15,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"06/09/2026 23:15",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-90E2C7,14.15,2000000000202,"Papier toilette x6",2,6.98,,20
+"07/09/2026 10:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1119861,18.33,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"07/09/2026 10:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1119861,18.33,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"07/09/2026 10:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1119861,18.33,2000000000141,"Salade composée",1,5.2,,10
+"07/09/2026 10:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1119861,18.33,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"07/09/2026 10:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1119861,18.33,2000000000103,"Soda cola 33 cl",1,1.35,1,5.5
+"07/09/2026 10:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7361B,21.43,2000000000141,"Salade composée",1,5.2,,10
+"07/09/2026 10:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7361B,21.43,2000000000158,"Wrap poulet",1,4.9,,10
+"07/09/2026 10:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7361B,21.43,2000000000059,"Tablette chocolat noir 100 g",2,4.38,,5.5
+"07/09/2026 10:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7361B,21.43,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"07/09/2026 10:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7361B,21.43,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000202,"Papier toilette x6",1,3.49,0.7,20
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"07/09/2026 11:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DA0EE4,13.36,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"07/09/2026 12:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BA4067,0.89,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"07/09/2026 12:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3A598E,4.9,2000000000158,"Wrap poulet",1,4.9,,10
+"07/09/2026 12:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3A598E,4.9,2000000000127,"Chips nature 150 g",1,,,5.5
+"07/09/2026 12:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC408,11.56,2000000000202,"Papier toilette x6",2,6.98,,20
+"07/09/2026 12:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC408,11.56,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"07/09/2026 13:32",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D1298D,8.48,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"07/09/2026 13:32",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D1298D,8.48,2000000000196,"Piles AA x4",1,5.99,,20
+"07/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AABD0,16.27,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"07/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AABD0,16.27,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"07/09/2026 14:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AABD0,16.27,2000000000158,"Wrap poulet",2,9.8,,10
+"07/09/2026 16:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826057,22.37,2000000000196,"Piles AA x4",1,5.99,,20
+"07/09/2026 16:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826057,22.37,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"07/09/2026 16:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826057,22.37,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"07/09/2026 16:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826057,22.37,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"07/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-072B9F,1.35,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"07/09/2026 18:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8433455,3.89,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"07/09/2026 18:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F32F5B,16.44,2000000000196,"Piles AA x4",1,5.99,,20
+"07/09/2026 18:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F32F5B,16.44,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"07/09/2026 18:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F32F5B,16.44,2000000000134,"Sandwich jambon-beurre",2,9,,10
+"07/09/2026 19:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C98148,21.19,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"07/09/2026 19:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C98148,21.19,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"07/09/2026 19:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C98148,21.19,2000000000103,"Soda cola 33 cl",1,1.35,1,5.5
+"07/09/2026 19:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C98148,21.19,2000000000141,"Salade composée",2,10.4,,10
+"07/09/2026 19:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C98148,21.19,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"07/09/2026 20:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7426285,3.23,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"07/09/2026 20:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7426285,3.23,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"07/09/2026 20:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7426285,3.23,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"07/09/2026 20:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4881893,17.18,2000000000141,"Salade composée",1,5.2,,10
+"07/09/2026 20:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4881893,17.18,2000000000196,"Piles AA x4",2,11.98,,20
+"07/09/2026 22:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5190833,11.39,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"07/09/2026 22:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5190833,11.39,2000000000141,"Salade composée",1,5.2,,10
+"07/09/2026 22:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5190833,11.39,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"08/09/2026 13:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-516E61,4.78,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"08/09/2026 13:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-516E61,4.78,2000000000202,"Papier toilette x6",1,3.49,,20
+"08/09/2026 13:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-516E61,4.78,2000000000066,"Pain de mie complet",1,,,5.5
+"08/09/2026 14:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2035540,29.1,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"08/09/2026 14:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2035540,29.1,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"08/09/2026 14:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2035540,29.1,2000000000189,"Lessive liquide 1,5 L",1,7.99,1.6,20
+"08/09/2026 14:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2035540,29.1,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"08/09/2026 14:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2035540,29.1,2000000000011,"Lait demi-écrémé 1 L",1,1.45,1,5.5
+"08/09/2026 16:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1965543,5.18,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"08/09/2026 18:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3541733,8.33,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"08/09/2026 18:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3541733,8.33,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"08/09/2026 18:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3541733,8.33,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"08/09/2026 19:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5B144D,0.89,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"08/09/2026 21:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8278233,10.4,2000000000141,"Salade composée",2,10.4,,10
+"08/09/2026 22:28",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1293874,2.59,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"09/09/2026 12:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5064918,11.11,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"09/09/2026 12:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5064918,11.11,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"09/09/2026 12:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5064918,11.11,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"09/09/2026 12:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69809E,3.89,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"09/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-56F218,20.92,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"09/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-56F218,20.92,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"09/09/2026 12:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-56F218,20.92,2000000000202,"Papier toilette x6",1,3.49,,20
+"09/09/2026 13:21",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3872947,1.35,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"09/09/2026 14:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-03316D,5.83,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"09/09/2026 14:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-03316D,5.83,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"09/09/2026 14:41",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-03316D,5.83,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"09/09/2026 15:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DF9E1B,10.61,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"09/09/2026 15:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DF9E1B,10.61,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"09/09/2026 15:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DF9E1B,10.61,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"09/09/2026 15:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DF9E1B,10.61,2000000000011,"Lait demi-écrémé 1 L",1,1.45,0.29,5.5
+"09/09/2026 15:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-DF9E1B,10.61,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"09/09/2026 16:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7483873,5.99,2000000000196,"Piles AA x4",1,5.99,,20
+"09/09/2026 17:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9AF068,12.57,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"09/09/2026 17:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9AF068,12.57,2000000000202,"Papier toilette x6",1,3.49,,20
+"09/09/2026 17:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9AF068,12.57,2000000000158,"Wrap poulet",1,4.9,0.98,10
+"09/09/2026 17:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9AF068,12.57,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"09/09/2026 17:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C22E94,7.46,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"09/09/2026 17:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C22E94,7.46,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"09/09/2026 17:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C22E94,7.46,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"09/09/2026 19:03",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1757534,6.69,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"09/09/2026 19:03",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1757534,6.69,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"09/09/2026 21:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BE710B,3.29,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"09/09/2026 21:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AB65AE,22.36,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"09/09/2026 21:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AB65AE,22.36,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"09/09/2026 21:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AB65AE,22.36,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"09/09/2026 21:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AB65AE,22.36,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"09/09/2026 21:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AB65AE,22.36,2000000000141,"Salade composée",1,5.2,,10
+"09/09/2026 22:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-97320C,32.17,2000000000158,"Wrap poulet",1,4.9,,10
+"09/09/2026 22:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-97320C,32.17,2000000000134,"Sandwich jambon-beurre",2,9,1,10
+"09/09/2026 22:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-97320C,32.17,2000000000219,"Dentifrice 75 ml",1,2.29,0.46,20
+"09/09/2026 22:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-97320C,32.17,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"09/09/2026 23:27",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-1338801,12.22,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"09/09/2026 23:27",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-1338801,12.22,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"09/09/2026 23:27",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-1338801,12.22,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"09/09/2026 23:27",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-1338801,12.22,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"10/09/2026 10:08",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5674248,8.42,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"10/09/2026 10:08",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5674248,8.42,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"10/09/2026 10:08",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5674248,8.42,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"10/09/2026 10:19",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8486137,12.99,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"10/09/2026 10:19",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8486137,12.99,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"10/09/2026 10:19",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8486137,12.99,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"10/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CF917E,9.14,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"10/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CF917E,9.14,2000000000141,"Salade composée",1,5.2,,10
+"10/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CF917E,9.14,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"10/09/2026 11:20",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6428955,11.89,2000000000196,"Piles AA x4",1,5.99,,20
+"10/09/2026 11:20",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6428955,11.89,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"10/09/2026 12:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4211743,13.3,2000000000141,"Salade composée",2,10.4,,10
+"10/09/2026 12:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4211743,13.3,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"10/09/2026 14:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-295D53,10.06,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"10/09/2026 14:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-295D53,10.06,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"10/09/2026 14:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-295D53,10.06,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"10/09/2026 14:57",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-295D53,10.06,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"10/09/2026 15:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAB8DF,25.36,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"10/09/2026 15:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAB8DF,25.36,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"10/09/2026 15:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAB8DF,25.36,2000000000219,"Dentifrice 75 ml",2,4.58,1,20
+"10/09/2026 15:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAB8DF,25.36,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"10/09/2026 15:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BAB8DF,25.36,2000000000172,"Bière blonde 50 cl",2,4.9,0.98,20
+"10/09/2026 17:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-93C1AF,3.28,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"10/09/2026 17:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-93C1AF,3.28,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"10/09/2026 18:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1828547,16.47,2000000000202,"Papier toilette x6",1,3.49,,20
+"10/09/2026 18:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1828547,16.47,2000000000141,"Salade composée",1,5.2,,10
+"10/09/2026 18:06",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1828547,16.47,2000000000042,"Céréales au chocolat 375 g",2,7.78,1,5.5
+"10/09/2026 18:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5979829,0.89,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"10/09/2026 19:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4714986,17.77,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"10/09/2026 19:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4714986,17.77,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"10/09/2026 19:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4714986,17.77,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"10/09/2026 19:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4714986,17.77,2000000000141,"Salade composée",1,5.2,1,10
+"10/09/2026 19:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4714986,17.77,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"10/09/2026 21:30",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7485406,2.19,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"10/09/2026 21:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7054995,19.38,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"10/09/2026 21:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7054995,19.38,2000000000158,"Wrap poulet",2,9.8,,10
+"10/09/2026 21:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7054995,19.38,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"10/09/2026 21:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7054995,19.38,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"10/09/2026 21:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7054995,19.38,2000000000011,"Lait demi-écrémé 1 L",1,1.45,1,5.5
+"10/09/2026 23:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-037682,15.58,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"10/09/2026 23:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-037682,15.58,2000000000202,"Papier toilette x6",1,3.49,,20
+"10/09/2026 23:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-037682,15.58,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"10/09/2026 23:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-037682,15.58,2000000000158,"Wrap poulet",1,4.9,0.98,10
+"10/09/2026 23:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-75A548,7.08,2000000000134,"Sandwich jambon-beurre",1,4.5,1,10
+"10/09/2026 23:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-75A548,7.08,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"11/09/2026 10:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-278C70,19.55,2000000000189,"Lessive liquide 1,5 L",1,7.99,1.6,20
+"11/09/2026 10:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-278C70,19.55,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"11/09/2026 10:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-278C70,19.55,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"11/09/2026 10:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-278C70,19.55,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"11/09/2026 10:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-278C70,19.55,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"11/09/2026 10:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA6C84,16.02,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"11/09/2026 10:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA6C84,16.02,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"11/09/2026 10:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA6C84,16.02,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"11/09/2026 10:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA6C84,16.02,2000000000134,"Sandwich jambon-beurre",1,4.5,0.9,10
+"11/09/2026 11:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-60F128,23.28,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"11/09/2026 11:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-60F128,23.28,2000000000066,"Pain de mie complet",1,2.49,0.5,5.5
+"11/09/2026 11:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-60F128,23.28,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"11/09/2026 11:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-60F128,23.28,2000000000134,"Sandwich jambon-beurre",2,9,,10
+"11/09/2026 11:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-60F128,23.28,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"11/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-96C6B8,11.63,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"11/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-96C6B8,11.63,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"11/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-96C6B8,11.63,2000000000219,"Dentifrice 75 ml",1,2.29,0.46,20
+"11/09/2026 14:50",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-96C6B8,11.63,2000000000158,"Wrap poulet",1,4.9,,10
+"11/09/2026 16:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E566B5,14.85,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"11/09/2026 16:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E566B5,14.85,2000000000202,"Papier toilette x6",2,6.98,,20
+"11/09/2026 16:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E566B5,14.85,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"11/09/2026 16:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E566B5,14.85,2000000000202,"Papier toilette x6",1,3.49,,20
+"11/09/2026 16:32",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D96743,29.85,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"11/09/2026 16:32",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D96743,29.85,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"11/09/2026 16:32",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D96743,29.85,2000000000196,"Piles AA x4",2,11.98,,20
+"11/09/2026 16:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7789708,15.98,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"11/09/2026 16:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7789708,15.98,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"11/09/2026 18:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E87721,12.87,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"11/09/2026 18:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E87721,12.87,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"11/09/2026 18:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E87721,12.87,2000000000219,"Dentifrice 75 ml",2,4.58,0.92,20
+"11/09/2026 18:37",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7865335,5.29,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"11/09/2026 18:37",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7865335,5.29,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"11/09/2026 19:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AD881,16.78,2000000000158,"Wrap poulet",2,9.8,,10
+"11/09/2026 19:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5AD881,16.78,2000000000202,"Papier toilette x6",2,6.98,,20
+"11/09/2026 19:22",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-66710E,17.25,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"11/09/2026 19:22",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-66710E,17.25,2000000000196,"Piles AA x4",1,5.99,,20
+"11/09/2026 19:22",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-66710E,17.25,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"11/09/2026 19:22",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-66710E,17.25,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"11/09/2026 19:22",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-66710E,17.25,2000000000226,"Liquide vaisselle 500 ml",1,1.89,1,5.5
+"11/09/2026 21:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-351D7F,14.92,2000000000073,"Yaourts nature x4",1,1.99,0.4,5.5
+"11/09/2026 21:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-351D7F,14.92,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"11/09/2026 21:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-351D7F,14.92,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"11/09/2026 21:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-351D7F,14.92,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"11/09/2026 21:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-351D7F,14.92,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"11/09/2026 22:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-18ACFE,22.07,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"11/09/2026 22:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-18ACFE,22.07,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"11/09/2026 22:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-18ACFE,22.07,2000000000141,"Salade composée",1,5.2,,10
+"11/09/2026 22:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-18ACFE,22.07,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"11/09/2026 22:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-18ACFE,22.07,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"11/09/2026 22:40",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7690805,5.28,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"11/09/2026 22:40",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7690805,5.28,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"11/09/2026 22:40",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7690805,5.28,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"11/09/2026 22:58",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3485712,4.98,2000000000066,"Pain de mie complet",2,4.98,1,5.5
+"11/09/2026 23:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-74F2B9,14.85,2000000000202,"Papier toilette x6",2,6.98,,20
+"11/09/2026 23:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-74F2B9,14.85,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"11/09/2026 23:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-74F2B9,14.85,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"11/09/2026 23:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-74F2B9,14.85,2000000000097,"Riz basmati 1 kg",1,3.29,0.66,5.5
+"12/09/2026 10:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3487473,17.35,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"12/09/2026 10:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3487473,17.35,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"12/09/2026 10:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3487473,17.35,2000000000196,"Piles AA x4",1,5.99,,20
+"12/09/2026 10:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3487473,17.35,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"12/09/2026 10:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3487473,17.35,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"12/09/2026 11:42",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7415023,5.99,2000000000196,"Piles AA x4",1,5.99,,20
+"12/09/2026 12:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FEEB1E,10.08,2000000000158,"Wrap poulet",1,4.9,,10
+"12/09/2026 12:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FEEB1E,10.08,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"12/09/2026 13:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5650578,9.68,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"12/09/2026 13:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5650578,9.68,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"12/09/2026 13:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5650578,9.68,2000000000066,"Pain de mie complet",1,2.49,0.5,5.5
+"12/09/2026 13:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5486252,2.49,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"12/09/2026 14:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FBD6FF,10.61,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"12/09/2026 14:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FBD6FF,10.61,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"12/09/2026 14:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FBD6FF,10.61,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"12/09/2026 14:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4118842,6.97,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"12/09/2026 14:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4118842,6.97,2000000000202,"Papier toilette x6",1,3.49,,20
+"12/09/2026 14:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4118842,6.97,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"12/09/2026 17:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-129564,3.89,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"12/09/2026 18:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9740596,13.87,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"12/09/2026 18:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9740596,13.87,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"12/09/2026 18:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9740596,13.87,2000000000141,"Salade composée",1,5.2,1,10
+"12/09/2026 18:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9740596,13.87,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"12/09/2026 19:59",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8282895,20.98,2000000000196,"Piles AA x4",1,5.99,,20
+"12/09/2026 19:59",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8282895,20.98,2000000000134,"Sandwich jambon-beurre",2,9,,10
+"12/09/2026 19:59",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8282895,20.98,2000000000097,"Riz basmati 1 kg",1,3.29,1,5.5
+"12/09/2026 19:59",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8282895,20.98,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"12/09/2026 20:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-22F47D,7.08,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"12/09/2026 20:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-22F47D,7.08,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"12/09/2026 20:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-22F47D,7.08,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"12/09/2026 20:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-22F47D,7.08,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"12/09/2026 21:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A081C,5.9,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"13/09/2026 12:04",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-734AD8,9.28,2000000000158,"Wrap poulet",1,4.9,,10
+"13/09/2026 12:04",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-734AD8,9.28,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"13/09/2026 12:04",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-734AD8,9.28,2000000000226,"Liquide vaisselle 500 ml",1,1.89,0.38,5.5
+"13/09/2026 12:46",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7198165,26.74,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"13/09/2026 12:46",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7198165,26.74,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"13/09/2026 12:46",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7198165,26.74,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"13/09/2026 12:46",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7198165,26.74,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"13/09/2026 12:46",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7198165,26.74,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"13/09/2026 13:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2691099,14.57,2000000000202,"Papier toilette x6",1,3.49,,20
+"13/09/2026 13:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2691099,14.57,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"13/09/2026 13:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2691099,14.57,2000000000141,"Salade composée",1,5.2,,10
+"13/09/2026 13:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2691099,14.57,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"13/09/2026 14:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-499223,1.29,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"13/09/2026 14:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4302842,4.9,2000000000158,"Wrap poulet",1,4.9,,10
+"13/09/2026 17:16",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3162503,9.39,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"13/09/2026 17:16",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3162503,9.39,2000000000202,"Papier toilette x6",1,3.49,,20
+"13/09/2026 21:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826231,19.94,2000000000127,"Chips nature 150 g",1,1.89,0.38,5.5
+"13/09/2026 21:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826231,19.94,2000000000141,"Salade composée",1,5.2,,10
+"13/09/2026 21:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826231,19.94,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"13/09/2026 21:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826231,19.94,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"13/09/2026 21:47",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5826231,19.94,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"13/09/2026 21:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6883063,7.07,2000000000097,"Riz basmati 1 kg",1,3.29,1,5.5
+"13/09/2026 21:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6883063,7.07,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"13/09/2026 21:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7CCC78,20.27,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"13/09/2026 21:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7CCC78,20.27,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"13/09/2026 21:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7CCC78,20.27,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"13/09/2026 21:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7CCC78,20.27,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"13/09/2026 22:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F511F1,8.33,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"13/09/2026 22:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F511F1,8.33,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"13/09/2026 22:37",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F511F1,8.33,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"14/09/2026 11:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1314430,15.28,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"14/09/2026 11:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1314430,15.28,2000000000202,"Papier toilette x6",1,3.49,,20
+"14/09/2026 11:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1314430,15.28,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"14/09/2026 11:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1314430,15.28,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"14/09/2026 14:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D1BEC8,11.68,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"14/09/2026 14:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D1BEC8,11.68,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"14/09/2026 14:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D1BEC8,11.68,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"14/09/2026 17:39",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728412,13.78,2000000000196,"Piles AA x4",1,5.99,,20
+"14/09/2026 17:39",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728412,13.78,2000000000141,"Salade composée",1,5.2,,10
+"14/09/2026 17:39",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728412,13.78,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"14/09/2026 18:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D3B43A,14.18,2000000000158,"Wrap poulet",1,4.9,,10
+"14/09/2026 18:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D3B43A,14.18,2000000000158,"Wrap poulet",1,4.9,,10
+"14/09/2026 18:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D3B43A,14.18,2000000000059,"Tablette chocolat noir 100 g",2,4.38,,5.5
+"14/09/2026 18:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69499F,18.55,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"14/09/2026 18:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69499F,18.55,2000000000141,"Salade composée",1,5.2,,10
+"14/09/2026 18:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69499F,18.55,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"14/09/2026 18:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69499F,18.55,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"14/09/2026 18:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-69499F,18.55,2000000000202,"Papier toilette x6",2,6.98,1.4,20
+"14/09/2026 19:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1172388,6.32,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"14/09/2026 19:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1172388,6.32,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"14/09/2026 19:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1172388,6.32,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"14/09/2026 20:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B91459,2.49,2000000000066,"Pain de mie complet",1,2.49,1,5.5
+"14/09/2026 23:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD692F,17.12,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"14/09/2026 23:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD692F,17.12,2000000000196,"Piles AA x4",1,5.99,,20
+"14/09/2026 23:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD692F,17.12,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"14/09/2026 23:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD692F,17.12,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"14/09/2026 23:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD692F,17.12,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"15/09/2026 13:08",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E30FD8,2.49,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"15/09/2026 14:28",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B6321B,9.26,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"15/09/2026 14:28",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B6321B,9.26,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"15/09/2026 14:28",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B6321B,9.26,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"15/09/2026 14:28",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B6321B,9.26,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"15/09/2026 15:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9370146,15.07,2000000000141,"Salade composée",1,5.2,1.04,10
+"15/09/2026 15:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9370146,15.07,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"15/09/2026 15:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9370146,15.07,2000000000158,"Wrap poulet",1,4.9,,10
+"15/09/2026 15:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9370146,15.07,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"15/09/2026 16:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5489308,6.78,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"15/09/2026 16:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5489308,6.78,2000000000202,"Papier toilette x6",1,3.49,0.7,20
+"15/09/2026 16:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2130902,5.27,2000000000073,"Yaourts nature x4",2,3.98,0.8,5.5
+"15/09/2026 16:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2130902,5.27,2000000000028,"Pâtes coquillettes 500 g",1,1.29,0.26,5.5
+"15/09/2026 17:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EE0D0C,10.48,2000000000189,"Lessive liquide 1,5 L",1,,,20
+"15/09/2026 17:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EE0D0C,10.48,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"15/09/2026 17:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EE0D0C,10.48,2000000000158,"Wrap poulet",1,4.9,,10
+"15/09/2026 17:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EE0D0C,10.48,2000000000219,"Dentifrice 75 ml",1,2.29,1,20
+"15/09/2026 19:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7367835,5.18,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"15/09/2026 19:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7367835,5.18,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"15/09/2026 22:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5160152,17.77,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"15/09/2026 22:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5160152,17.77,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"15/09/2026 22:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5160152,17.77,2000000000196,"Piles AA x4",2,11.98,,20
+"15/09/2026 23:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A9CFF,20.28,2000000000158,"Wrap poulet",1,4.9,,10
+"15/09/2026 23:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A9CFF,20.28,2000000000141,"Salade composée",2,10.4,,10
+"15/09/2026 23:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A9CFF,20.28,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"15/09/2026 23:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A9CFF,20.28,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"15/09/2026 23:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2243163,33.75,2000000000189,"Lessive liquide 1,5 L",2,15.98,1,20
+"15/09/2026 23:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2243163,33.75,2000000000042,"Céréales au chocolat 375 g",1,,,5.5
+"15/09/2026 23:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2243163,33.75,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"15/09/2026 23:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2243163,33.75,2000000000141,"Salade composée",2,10.4,,10
+"15/09/2026 23:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2243163,33.75,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"15/09/2026 23:54",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1455425,11.03,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"15/09/2026 23:54",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1455425,11.03,2000000000141,"Salade composée",1,5.2,,10
+"15/09/2026 23:54",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1455425,11.03,2000000000202,"Papier toilette x6",1,3.49,1,20
+"15/09/2026 23:54",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1455425,11.03,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"16/09/2026 10:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7730515,7.63,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"16/09/2026 10:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7730515,7.63,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"16/09/2026 11:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5C891D,14.06,2000000000202,"Papier toilette x6",1,3.49,,20
+"16/09/2026 11:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5C891D,14.06,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"16/09/2026 11:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5C891D,14.06,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"16/09/2026 11:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5C891D,14.06,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"16/09/2026 11:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-5C891D,14.06,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"16/09/2026 11:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3405073,28.46,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"16/09/2026 11:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3405073,28.46,2000000000042,"Céréales au chocolat 375 g",1,3.89,0.78,5.5
+"16/09/2026 11:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3405073,28.46,2000000000134,"Sandwich jambon-beurre",1,4.5,0.9,10
+"16/09/2026 11:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3405073,28.46,2000000000202,"Papier toilette x6",1,3.49,1,20
+"16/09/2026 11:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3405073,28.46,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"16/09/2026 11:27",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8445145,5.9,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"16/09/2026 12:02",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7689157,3.89,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"16/09/2026 12:56",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A0938C,11.69,2000000000141,"Salade composée",2,10.4,,10
+"16/09/2026 12:56",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A0938C,11.69,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"16/09/2026 14:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3199975,2.19,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"16/09/2026 14:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7287440,3.78,2000000000127,"Chips nature 150 g",1,1.89,0.38,5.5
+"16/09/2026 14:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7287440,3.78,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"16/09/2026 14:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9615055,16.47,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"16/09/2026 14:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9615055,16.47,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"16/09/2026 14:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9615055,16.47,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"16/09/2026 17:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6240286,17.35,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"16/09/2026 17:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6240286,17.35,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"16/09/2026 17:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6240286,17.35,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"16/09/2026 17:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6240286,17.35,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"16/09/2026 17:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6240286,17.35,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"16/09/2026 18:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-71E010,2.19,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"16/09/2026 19:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-670F3F,7.13,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"16/09/2026 19:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-670F3F,7.13,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"16/09/2026 19:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-670F3F,7.13,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"16/09/2026 20:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6554143,22.16,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"16/09/2026 20:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6554143,22.16,2000000000141,"Salade composée",1,5.2,,10
+"16/09/2026 20:57",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6554143,22.16,2000000000196,"Piles AA x4",2,11.98,,20
+"17/09/2026 10:13",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7924781,5.08,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"17/09/2026 10:13",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7924781,5.08,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"17/09/2026 10:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4313C7,6.82,2000000000059,"Tablette chocolat noir 100 g",1,2.19,0.44,5.5
+"17/09/2026 10:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4313C7,6.82,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"17/09/2026 10:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4313C7,6.82,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"17/09/2026 10:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4313C7,6.82,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"17/09/2026 12:08",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B14B95,18.67,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"17/09/2026 12:08",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B14B95,18.67,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"17/09/2026 12:08",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B14B95,18.67,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"17/09/2026 12:08",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-B14B95,18.67,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"17/09/2026 12:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0CBBD3,11.01,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"17/09/2026 12:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0CBBD3,11.01,2000000000172,"Bière blonde 50 cl",1,2.45,0.49,20
+"17/09/2026 12:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0CBBD3,11.01,2000000000127,"Chips nature 150 g",1,1.89,1,5.5
+"17/09/2026 12:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0CBBD3,11.01,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"17/09/2026 12:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0CBBD3,11.01,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"17/09/2026 13:11",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9193332,3.89,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"17/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3501679,5.93,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"17/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3501679,5.93,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"17/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3501679,5.93,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"17/09/2026 14:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1E7A09,14.25,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"17/09/2026 14:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1E7A09,14.25,2000000000165,"Lasagnes à réchauffer",1,5.9,1,10
+"17/09/2026 14:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1E7A09,14.25,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"17/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FE093,20.47,2000000000141,"Salade composée",1,5.2,,10
+"17/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FE093,20.47,2000000000196,"Piles AA x4",2,11.98,1,20
+"17/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FE093,20.47,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"17/09/2026 16:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6711E1,5.77,2000000000073,"Yaourts nature x4",1,1.99,0.4,5.5
+"17/09/2026 16:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6711E1,5.77,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"17/09/2026 16:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2335433,9.32,2000000000097,"Riz basmati 1 kg",2,6.58,1,5.5
+"17/09/2026 16:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2335433,9.32,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"17/09/2026 16:48",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2335433,9.32,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"17/09/2026 17:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3423723,7.74,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"17/09/2026 17:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3423723,7.74,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"17/09/2026 17:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3423723,7.74,2000000000110,"Jus d'orange 1 L",1,2.59,0.52,5.5
+"17/09/2026 17:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3423723,7.74,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"17/09/2026 19:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D641F1,14.31,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"17/09/2026 19:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D641F1,14.31,2000000000141,"Salade composée",1,5.2,,10
+"17/09/2026 19:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D641F1,14.31,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"17/09/2026 19:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D641F1,14.31,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"17/09/2026 19:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D641F1,14.31,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"17/09/2026 19:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD060F,29.79,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"17/09/2026 19:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD060F,29.79,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"17/09/2026 19:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD060F,29.79,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"17/09/2026 19:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD060F,29.79,2000000000196,"Piles AA x4",1,5.99,,20
+"17/09/2026 19:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD060F,29.79,2000000000028,"Pâtes coquillettes 500 g",2,2.58,0.52,5.5
+"17/09/2026 20:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5818555,11.66,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"17/09/2026 20:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5818555,11.66,2000000000196,"Piles AA x4",1,5.99,,20
+"17/09/2026 20:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5818555,11.66,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"17/09/2026 21:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CB3124,20.55,2000000000196,"Piles AA x4",1,5.99,,20
+"17/09/2026 21:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CB3124,20.55,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"17/09/2026 21:20",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CB3124,20.55,2000000000196,"Piles AA x4",2,11.98,,20
+"17/09/2026 23:58",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2220145,2.39,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"18/09/2026 11:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0195A,6.79,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"18/09/2026 11:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0195A,6.79,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"18/09/2026 11:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0195A,6.79,2000000000028,"Pâtes coquillettes 500 g",1,,,5.5
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000141,"Salade composée",1,5.2,,10
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"18/09/2026 11:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-307B7B,27.74,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"18/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1079728,8.96,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"18/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1079728,8.96,2000000000035,"Eau minérale 1,5 L",1,0.89,0.18,5.5
+"18/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1079728,8.96,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"18/09/2026 13:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1079728,8.96,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"18/09/2026 16:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9F22AF,8.27,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"18/09/2026 16:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9F22AF,8.27,2000000000080,"Bananes 1 kg",1,2.39,0.48,5.5
+"18/09/2026 16:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9F22AF,8.27,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"18/09/2026 17:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F39FFF,5.2,2000000000141,"Salade composée",1,5.2,,10
+"18/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4111800,37.36,2000000000158,"Wrap poulet",1,4.9,,10
+"18/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4111800,37.36,2000000000189,"Lessive liquide 1,5 L",2,15.98,3.2,20
+"18/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4111800,37.36,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"18/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4111800,37.36,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"18/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4111800,37.36,2000000000141,"Salade composée",1,5.2,1.04,10
+"18/09/2026 20:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0FE6C2,16.68,2000000000158,"Wrap poulet",1,4.9,1,10
+"18/09/2026 20:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0FE6C2,16.68,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"18/09/2026 20:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0FE6C2,16.68,2000000000134,"Sandwich jambon-beurre",2,9,1,10
+"18/09/2026 20:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-0FE6C2,16.68,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"18/09/2026 21:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3762895,24.24,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"18/09/2026 21:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3762895,24.24,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"18/09/2026 21:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3762895,24.24,2000000000134,"Sandwich jambon-beurre",1,4.5,1,10
+"18/09/2026 21:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3762895,24.24,2000000000196,"Piles AA x4",1,5.99,,20
+"18/09/2026 21:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3762895,24.24,2000000000202,"Papier toilette x6",2,6.98,1.4,20
+"18/09/2026 22:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B976,11.12,2000000000202,"Papier toilette x6",1,3.49,0.7,20
+"18/09/2026 22:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B976,11.12,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"18/09/2026 22:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B976,11.12,2000000000110,"Jus d'orange 1 L",1,2.59,0.52,5.5
+"18/09/2026 22:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B976,11.12,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"18/09/2026 22:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7F844C,13.16,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"18/09/2026 22:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7F844C,13.16,2000000000202,"Papier toilette x6",1,3.49,1,20
+"18/09/2026 22:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7F844C,13.16,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"18/09/2026 22:12",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7F844C,13.16,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"18/09/2026 22:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0E567,9.38,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"18/09/2026 22:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0E567,9.38,2000000000141,"Salade composée",1,5.2,,10
+"18/09/2026 22:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0E567,9.38,2000000000097,"Riz basmati 1 kg",1,3.29,0.66,5.5
+"18/09/2026 23:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F8830E,5.07,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"18/09/2026 23:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F8830E,5.07,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"18/09/2026 23:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F8830E,5.07,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"18/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7219902,21.07,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"18/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7219902,21.07,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"18/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7219902,21.07,2000000000141,"Salade composée",1,5.2,,10
+"18/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7219902,21.07,2000000000028,"Pâtes coquillettes 500 g",2,2.58,0.52,5.5
+"18/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7219902,21.07,2000000000141,"Salade composée",1,5.2,,10
+"19/09/2026 10:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2C1DDA,10.22,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"19/09/2026 10:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2C1DDA,10.22,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"19/09/2026 10:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2C1DDA,10.22,2000000000202,"Papier toilette x6",2,6.98,,20
+"19/09/2026 11:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1307625,7.39,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"19/09/2026 11:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1307625,7.39,2000000000158,"Wrap poulet",1,4.9,,10
+"19/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E358FC,16.75,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"19/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E358FC,16.75,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"19/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E358FC,16.75,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"19/09/2026 12:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E358FC,16.75,2000000000059,"Tablette chocolat noir 100 g",2,4.38,0.88,5.5
+"19/09/2026 12:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2216444,1.45,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"19/09/2026 13:16",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1697574,5.03,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"19/09/2026 13:16",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1697574,5.03,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"19/09/2026 17:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7BFFC3,7.56,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"19/09/2026 17:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7BFFC3,7.56,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"19/09/2026 17:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7BFFC3,7.56,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"19/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EB8E12,10.17,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"19/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EB8E12,10.17,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"19/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EB8E12,10.17,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"19/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EB8E12,10.17,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"19/09/2026 17:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-EB8E12,10.17,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"19/09/2026 18:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A2CC09,13.38,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"19/09/2026 18:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A2CC09,13.38,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"19/09/2026 18:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A2CC09,13.38,2000000000196,"Piles AA x4",1,5.99,,20
+"19/09/2026 18:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-AD57DF,4.9,2000000000158,"Wrap poulet",1,4.9,,10
+"19/09/2026 19:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D7790,11.96,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"19/09/2026 19:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D7790,11.96,2000000000202,"Papier toilette x6",2,6.98,,20
+"19/09/2026 20:19",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-8654740,15.98,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"19/09/2026 22:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2142640,7.27,2000000000202,"Papier toilette x6",1,3.49,,20
+"19/09/2026 22:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2142640,7.27,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"19/09/2026 22:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2142640,7.27,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"19/09/2026 22:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-215101,7.39,2000000000141,"Salade composée",1,5.2,,10
+"19/09/2026 22:16",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-215101,7.39,2000000000059,"Tablette chocolat noir 100 g",1,2.19,1,5.5
+"19/09/2026 22:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6475400,11.57,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"19/09/2026 22:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6475400,11.57,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"19/09/2026 22:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6475400,11.57,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"19/09/2026 22:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6475400,11.57,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"19/09/2026 23:28",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-414463,2.19,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"20/09/2026 10:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7502867,5.2,2000000000141,"Salade composée",1,5.2,,10
+"20/09/2026 12:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4050825,1.99,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"20/09/2026 14:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2BF5E,15.74,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"20/09/2026 14:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2BF5E,15.74,2000000000141,"Salade composée",2,10.4,,10
+"20/09/2026 14:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D2BF5E,15.74,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"20/09/2026 14:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B7C7,8.93,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"20/09/2026 14:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B7C7,8.93,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"20/09/2026 14:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B7C7,8.93,2000000000035,"Eau minérale 1,5 L",1,0.89,0.18,5.5
+"20/09/2026 14:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F2B7C7,8.93,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"20/09/2026 15:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6A24D9,22.47,2000000000080,"Bananes 1 kg",1,2.39,0.48,5.5
+"20/09/2026 15:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6A24D9,22.47,2000000000158,"Wrap poulet",1,4.9,1,10
+"20/09/2026 15:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6A24D9,22.47,2000000000158,"Wrap poulet",1,4.9,,10
+"20/09/2026 15:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6A24D9,22.47,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"20/09/2026 15:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6A24D9,22.47,2000000000219,"Dentifrice 75 ml",1,2.29,0.46,20
+"20/09/2026 17:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C139EF,8.97,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"20/09/2026 17:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C139EF,8.97,2000000000202,"Papier toilette x6",2,6.98,,20
+"20/09/2026 19:08",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E15D8D,11.16,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"20/09/2026 19:08",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E15D8D,11.16,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"20/09/2026 19:08",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E15D8D,11.16,2000000000073,"Yaourts nature x4",1,1.99,0.4,5.5
+"20/09/2026 19:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5110938,11.46,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"20/09/2026 19:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5110938,11.46,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"20/09/2026 19:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5110938,11.46,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"20/09/2026 19:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5110938,11.46,2000000000141,"Salade composée",1,5.2,,10
+"20/09/2026 20:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2230224,2.29,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000141,"Salade composée",2,10.4,,10
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"20/09/2026 20:32",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1816535,31.45,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"20/09/2026 21:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F77EC3,0.89,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"20/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4535582,26.56,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"20/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4535582,26.56,2000000000202,"Papier toilette x6",2,6.98,,20
+"20/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4535582,26.56,2000000000196,"Piles AA x4",1,5.99,,20
+"20/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4535582,26.56,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"20/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4535582,26.56,2000000000141,"Salade composée",1,5.2,,10
+"20/09/2026 21:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C0CAFB,9.28,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"20/09/2026 21:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C0CAFB,9.28,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"20/09/2026 23:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A76C0B,4.84,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"20/09/2026 23:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A76C0B,4.84,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"20/09/2026 23:19",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1503839,8.19,2000000000097,"Riz basmati 1 kg",1,3.29,1,5.5
+"20/09/2026 23:19",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1503839,8.19,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"20/09/2026 23:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2503834,17.54,2000000000158,"Wrap poulet",2,9.8,,10
+"20/09/2026 23:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2503834,17.54,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"20/09/2026 23:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2503834,17.54,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"20/09/2026 23:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2503834,17.54,2000000000134,"Sandwich jambon-beurre",1,4.5,1,10
+"20/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-89F187,11.98,2000000000196,"Piles AA x4",2,11.98,1,20
+"21/09/2026 10:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7B0CB2,8.49,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"21/09/2026 10:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-7B0CB2,8.49,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"21/09/2026 11:17",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-4D0399,27.05,2000000000141,"Salade composée",2,10.4,,10
+"21/09/2026 11:17",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-4D0399,27.05,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"21/09/2026 11:17",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-4D0399,27.05,2000000000141,"Salade composée",1,5.2,,10
+"21/09/2026 11:17",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-4D0399,27.05,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"21/09/2026 11:17",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-4D0399,27.05,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"21/09/2026 11:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-175E87,23.87,2000000000196,"Piles AA x4",1,5.99,,20
+"21/09/2026 11:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-175E87,23.87,2000000000059,"Tablette chocolat noir 100 g",1,2.19,1,5.5
+"21/09/2026 11:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-175E87,23.87,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"21/09/2026 11:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-175E87,23.87,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"21/09/2026 11:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-175E87,23.87,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"21/09/2026 11:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-47A9D6,14.03,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"21/09/2026 11:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-47A9D6,14.03,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"21/09/2026 11:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-47A9D6,14.03,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"21/09/2026 11:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-47A9D6,14.03,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"21/09/2026 11:59",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-47A9D6,14.03,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"21/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-523533,16.42,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"21/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-523533,16.42,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"21/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-523533,16.42,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"21/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-523533,16.42,2000000000158,"Wrap poulet",1,4.9,,10
+"21/09/2026 12:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CA8769,12.27,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"21/09/2026 12:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CA8769,12.27,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"21/09/2026 12:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CA8769,12.27,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"21/09/2026 14:06",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7092184,25.66,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"21/09/2026 14:06",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7092184,25.66,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"21/09/2026 14:06",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7092184,25.66,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"21/09/2026 14:06",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-7092184,25.66,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"21/09/2026 14:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1210368,22.04,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"21/09/2026 14:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1210368,22.04,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"21/09/2026 14:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1210368,22.04,2000000000066,"Pain de mie complet",1,2.49,1,5.5
+"21/09/2026 14:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1210368,22.04,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"21/09/2026 14:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1210368,22.04,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"21/09/2026 15:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E5DB0D,16.72,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"21/09/2026 15:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E5DB0D,16.72,2000000000202,"Papier toilette x6",2,6.98,,20
+"21/09/2026 15:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E5DB0D,16.72,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"21/09/2026 15:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E5DB0D,16.72,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"21/09/2026 15:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3454,20.04,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"21/09/2026 15:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3454,20.04,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"21/09/2026 15:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3454,20.04,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"21/09/2026 15:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3454,20.04,2000000000042,"Céréales au chocolat 375 g",2,7.78,1.56,5.5
+"21/09/2026 15:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5884312,2.49,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"21/09/2026 15:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5884312,2.49,2000000000011,"Lait demi-écrémé 1 L",1,,,5.5
+"21/09/2026 16:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C8E226,3.24,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"21/09/2026 16:29",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C8E226,3.24,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"21/09/2026 19:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67BF9B,2.24,2000000000103,"Soda cola 33 cl",1,1.35,1,5.5
+"21/09/2026 19:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67BF9B,2.24,2000000000073,"Yaourts nature x4",1,,,5.5
+"21/09/2026 19:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67BF9B,2.24,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"21/09/2026 21:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2D39CC,8.37,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"21/09/2026 21:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2D39CC,8.37,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"21/09/2026 21:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2D39CC,8.37,2000000000226,"Liquide vaisselle 500 ml",1,1.89,0.38,5.5
+"21/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E88351,17.64,2000000000073,"Yaourts nature x4",1,1.99,1,5.5
+"21/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E88351,17.64,2000000000097,"Riz basmati 1 kg",2,6.58,1,5.5
+"21/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E88351,17.64,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"21/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E88351,17.64,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 11:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8832882,6.79,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"22/09/2026 11:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8832882,6.79,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"22/09/2026 13:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CD9FB8,17.22,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"22/09/2026 13:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CD9FB8,17.22,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"22/09/2026 13:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CD9FB8,17.22,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"22/09/2026 13:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CD9FB8,17.22,2000000000158,"Wrap poulet",1,4.9,,10
+"22/09/2026 13:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CD9FB8,17.22,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"22/09/2026 14:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1317290,9,2000000000134,"Sandwich jambon-beurre",2,9,,10
+"22/09/2026 15:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-354726,6.38,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"22/09/2026 15:38",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-354726,6.38,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 15:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3FB6A2,18.93,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"22/09/2026 15:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3FB6A2,18.93,2000000000141,"Salade composée",2,10.4,,10
+"22/09/2026 15:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3FB6A2,18.93,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"22/09/2026 15:58",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3FB6A2,18.93,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 16:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8065527,22.24,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"22/09/2026 16:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8065527,22.24,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"22/09/2026 16:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8065527,22.24,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"22/09/2026 16:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8065527,22.24,2000000000202,"Papier toilette x6",2,6.98,,20
+"22/09/2026 16:51",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8065527,22.24,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"22/09/2026 17:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D9CA53,10.58,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"22/09/2026 17:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D9CA53,10.58,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"22/09/2026 17:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D9CA53,10.58,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 18:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67E71A,7.07,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"22/09/2026 18:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67E71A,7.07,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"22/09/2026 18:10",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67E71A,7.07,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"22/09/2026 18:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9E1E3A,11.79,2000000000158,"Wrap poulet",1,4.9,,10
+"22/09/2026 18:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9E1E3A,11.79,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"22/09/2026 18:35",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9E1E3A,11.79,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"22/09/2026 20:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2369140,16.15,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"22/09/2026 20:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2369140,16.15,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"22/09/2026 20:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2369140,16.15,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"22/09/2026 20:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2369140,16.15,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"22/09/2026 20:26",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2369140,16.15,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"22/09/2026 20:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728837,13.41,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 20:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728837,13.41,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"22/09/2026 20:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728837,13.41,2000000000202,"Papier toilette x6",1,3.49,,20
+"22/09/2026 20:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728837,13.41,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"22/09/2026 20:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6728837,13.41,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"22/09/2026 21:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3212017,10.28,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"22/09/2026 21:25",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3212017,10.28,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"22/09/2026 22:20",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8231191,8,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"22/09/2026 22:20",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8231191,8,2000000000141,"Salade composée",1,5.2,,10
+"22/09/2026 22:20",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8231191,8,2000000000103,"Soda cola 33 cl",1,1.35,0.27,5.5
+"22/09/2026 22:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2EA135,22.96,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"22/09/2026 22:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2EA135,22.96,2000000000028,"Pâtes coquillettes 500 g",1,1.29,0.26,5.5
+"22/09/2026 22:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2EA135,22.96,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"22/09/2026 22:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2EA135,22.96,2000000000042,"Céréales au chocolat 375 g",1,3.89,1,5.5
+"22/09/2026 22:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2EA135,22.96,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"23/09/2026 10:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B712E9,8.17,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"23/09/2026 10:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B712E9,8.17,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"23/09/2026 10:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B712E9,8.17,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"23/09/2026 14:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-52A929,9.41,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"23/09/2026 14:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-52A929,9.41,2000000000035,"Eau minérale 1,5 L",1,0.89,0.89,5.5
+"23/09/2026 14:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-52A929,9.41,2000000000097,"Riz basmati 1 kg",1,3.29,1,5.5
+"23/09/2026 14:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-52A929,9.41,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"23/09/2026 14:21",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2170252,9.34,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"23/09/2026 14:21",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2170252,9.34,2000000000172,"Bière blonde 50 cl",1,2.45,0.49,20
+"23/09/2026 14:21",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2170252,9.34,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"23/09/2026 15:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-06B46F,11.73,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"23/09/2026 15:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-06B46F,11.73,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"23/09/2026 15:49",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-06B46F,11.73,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"23/09/2026 16:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F68BA5,16.15,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"23/09/2026 16:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F68BA5,16.15,2000000000059,"Tablette chocolat noir 100 g",2,4.38,1,5.5
+"23/09/2026 16:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F68BA5,16.15,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"23/09/2026 16:39",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F68BA5,16.15,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"23/09/2026 19:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1280063,23.21,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"23/09/2026 19:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1280063,23.21,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"23/09/2026 19:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1280063,23.21,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"23/09/2026 19:33",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1280063,23.21,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"23/09/2026 21:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6C8652,9.18,2000000000158,"Wrap poulet",1,4.9,1,10
+"23/09/2026 21:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6C8652,9.18,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"23/09/2026 21:34",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6C8652,9.18,2000000000073,"Yaourts nature x4",1,1.99,1,5.5
+"23/09/2026 22:02",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9227039,11.1,2000000000103,"Soda cola 33 cl",2,2.7,,5.5
+"23/09/2026 22:02",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9227039,11.1,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"23/09/2026 22:02",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9227039,11.1,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"23/09/2026 22:02",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9227039,11.1,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"23/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0EAAE,35.15,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"23/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0EAAE,35.15,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"23/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0EAAE,35.15,2000000000073,"Yaourts nature x4",2,3.98,1,5.5
+"23/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0EAAE,35.15,2000000000103,"Soda cola 33 cl",2,2.7,0.54,5.5
+"23/09/2026 22:36",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F0EAAE,35.15,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"23/09/2026 22:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3042307,17.27,2000000000202,"Papier toilette x6",1,3.49,,20
+"23/09/2026 22:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3042307,17.27,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"23/09/2026 22:41",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3042307,17.27,2000000000158,"Wrap poulet",2,9.8,,10
+"23/09/2026 23:03",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2102217,5.88,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"23/09/2026 23:03",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2102217,5.88,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"23/09/2026 23:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-25C9C4,5.74,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"23/09/2026 23:06",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-25C9C4,5.74,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"24/09/2026 10:56",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F99D2C,6.87,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"24/09/2026 10:56",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F99D2C,6.87,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"24/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2601580,6.43,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"24/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2601580,6.43,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"24/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2601580,6.43,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"24/09/2026 13:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3365,19.05,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"24/09/2026 13:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3365,19.05,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"24/09/2026 13:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FA3365,19.05,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"24/09/2026 15:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CCD922,5.17,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"24/09/2026 15:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CCD922,5.17,2000000000127,"Chips nature 150 g",1,1.89,0.38,5.5
+"24/09/2026 15:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-CCD922,5.17,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"24/09/2026 16:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8560426,7.07,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"24/09/2026 16:04",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-8560426,7.07,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"24/09/2026 17:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3809927,18.41,2000000000196,"Piles AA x4",1,5.99,,20
+"24/09/2026 17:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3809927,18.41,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"24/09/2026 17:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3809927,18.41,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"24/09/2026 17:15",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3809927,18.41,2000000000097,"Riz basmati 1 kg",1,3.29,0.66,5.5
+"24/09/2026 17:35",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-D3088C,1.29,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"24/09/2026 23:25",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8481A7,7.99,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"25/09/2026 10:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-622CCC,22.24,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"25/09/2026 10:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-622CCC,22.24,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"25/09/2026 10:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-622CCC,22.24,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"25/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D11ED8,31.63,2000000000066,"Pain de mie complet",2,4.98,1,5.5
+"25/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D11ED8,31.63,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"25/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D11ED8,31.63,2000000000110,"Jus d'orange 1 L",2,5.18,,5.5
+"25/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D11ED8,31.63,2000000000042,"Céréales au chocolat 375 g",2,7.78,,5.5
+"25/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D11ED8,31.63,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"25/09/2026 15:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-73F510,16.09,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"25/09/2026 15:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-73F510,16.09,2000000000141,"Salade composée",1,5.2,,10
+"25/09/2026 15:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-73F510,16.09,2000000000172,"Bière blonde 50 cl",2,4.9,,20
+"25/09/2026 16:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2538246,19.96,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"25/09/2026 16:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2538246,19.96,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"25/09/2026 16:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2538246,19.96,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"25/09/2026 16:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2538246,19.96,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"25/09/2026 16:38",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2538246,19.96,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"25/09/2026 17:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8B7B09,15.87,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"25/09/2026 17:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8B7B09,15.87,2000000000196,"Piles AA x4",2,11.98,,20
+"25/09/2026 17:44",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7375304,2.8,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"25/09/2026 17:44",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7375304,2.8,2000000000011,"Lait demi-écrémé 1 L",1,1.45,1,5.5
+"25/09/2026 18:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A84790,21.78,2000000000165,"Lasagnes à réchauffer",1,5.9,1,10
+"25/09/2026 18:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A84790,21.78,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"25/09/2026 18:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A84790,21.78,2000000000141,"Salade composée",1,5.2,,10
+"25/09/2026 18:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A84790,21.78,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"25/09/2026 18:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A84790,21.78,2000000000202,"Papier toilette x6",1,3.49,,20
+"25/09/2026 19:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A34E07,27.51,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"25/09/2026 19:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A34E07,27.51,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"25/09/2026 19:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A34E07,27.51,2000000000158,"Wrap poulet",1,4.9,,10
+"25/09/2026 19:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A34E07,27.51,2000000000189,"Lessive liquide 1,5 L",2,15.98,,20
+"25/09/2026 19:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A34E07,27.51,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"25/09/2026 21:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A1F61A,18.46,2000000000141,"Salade composée",1,5.2,,10
+"25/09/2026 21:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A1F61A,18.46,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"25/09/2026 21:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A1F61A,18.46,2000000000202,"Papier toilette x6",2,6.98,,20
+"25/09/2026 21:18",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A1F61A,18.46,2000000000042,"Céréales au chocolat 375 g",1,3.89,0.78,5.5
+"25/09/2026 22:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4033819,6.38,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"25/09/2026 22:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-4033819,6.38,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"26/09/2026 10:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-43E418,17.64,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"26/09/2026 10:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-43E418,17.64,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"26/09/2026 10:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-43E418,17.64,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"26/09/2026 10:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-43E418,17.64,2000000000196,"Piles AA x4",1,5.99,,20
+"26/09/2026 10:40",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-43E418,17.64,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"26/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D53FE9,14.17,2000000000196,"Piles AA x4",1,5.99,,20
+"26/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D53FE9,14.17,2000000000196,"Piles AA x4",1,5.99,,20
+"26/09/2026 11:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D53FE9,14.17,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"26/09/2026 12:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5488161,12.26,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"26/09/2026 12:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5488161,12.26,2000000000066,"Pain de mie complet",1,2.49,1,5.5
+"26/09/2026 12:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5488161,12.26,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"26/09/2026 12:49",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5488161,12.26,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"26/09/2026 13:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-814391,23.13,2000000000202,"Papier toilette x6",1,3.49,,20
+"26/09/2026 13:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-814391,23.13,2000000000202,"Papier toilette x6",2,6.98,,20
+"26/09/2026 13:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-814391,23.13,2000000000059,"Tablette chocolat noir 100 g",2,4.38,,5.5
+"26/09/2026 13:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-814391,23.13,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"26/09/2026 13:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-814391,23.13,2000000000196,"Piles AA x4",1,5.99,,20
+"26/09/2026 16:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B1A088,22.55,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"26/09/2026 16:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B1A088,22.55,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"26/09/2026 16:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B1A088,22.55,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"26/09/2026 16:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B1A088,22.55,2000000000066,"Pain de mie complet",2,4.98,,5.5
+"26/09/2026 16:00",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B1A088,22.55,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"26/09/2026 17:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-71B944,0,2000000000219,"Dentifrice 75 ml",1,,,20
+"26/09/2026 18:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-BD8754,1.29,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"26/09/2026 19:27",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9818976,8.98,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"26/09/2026 19:27",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9818976,8.98,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"26/09/2026 19:27",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9818976,8.98,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"26/09/2026 19:42",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941372,18.36,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"26/09/2026 19:42",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941372,18.36,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"26/09/2026 19:42",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941372,18.36,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"26/09/2026 19:42",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941372,18.36,2000000000158,"Wrap poulet",2,9.8,,10
+"26/09/2026 19:42",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2941372,18.36,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"26/09/2026 21:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B9BCB2,15.16,2000000000202,"Papier toilette x6",2,6.98,,20
+"26/09/2026 21:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B9BCB2,15.16,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"26/09/2026 21:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B9BCB2,15.16,2000000000158,"Wrap poulet",1,4.9,,10
+"26/09/2026 21:24",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B9BCB2,15.16,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"26/09/2026 22:16",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3138833,21.58,2000000000134,"Sandwich jambon-beurre",2,9,1,10
+"26/09/2026 22:16",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3138833,21.58,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"26/09/2026 22:16",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3138833,21.58,2000000000158,"Wrap poulet",1,4.9,,10
+"26/09/2026 22:16",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3138833,21.58,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"26/09/2026 22:16",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3138833,21.58,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"26/09/2026 22:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC517,17.27,2000000000158,"Wrap poulet",1,4.9,,10
+"26/09/2026 22:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC517,17.27,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"26/09/2026 22:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC517,17.27,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"26/09/2026 22:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC517,17.27,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"26/09/2026 22:46",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2FC517,17.27,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"26/09/2026 23:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C47BFA,21.81,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"26/09/2026 23:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C47BFA,21.81,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"26/09/2026 23:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C47BFA,21.81,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"26/09/2026 23:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C47BFA,21.81,2000000000219,"Dentifrice 75 ml",2,4.58,0.92,20
+"26/09/2026 23:01",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C47BFA,21.81,2000000000189,"Lessive liquide 1,5 L",1,7.99,1,20
+"26/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-363002,12.67,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"26/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-363002,12.67,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"26/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-363002,12.67,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"26/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-363002,12.67,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"26/09/2026 23:45",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-363002,12.67,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"26/09/2026 23:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1F7701,10.38,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"26/09/2026 23:55",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-1F7701,10.38,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"27/09/2026 10:33",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C6A0CB,1.29,2000000000028,"Pâtes coquillettes 500 g",1,1.29,1,5.5
+"27/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1016442,8.22,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"27/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1016442,8.22,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"27/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1016442,8.22,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"27/09/2026 11:07",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1016442,8.22,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"27/09/2026 11:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4A5F0D,9.84,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"27/09/2026 11:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4A5F0D,9.84,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"27/09/2026 11:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-4A5F0D,9.84,2000000000011,"Lait demi-écrémé 1 L",1,1.45,1,5.5
+"27/09/2026 14:17",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3827346,2.59,2000000000110,"Jus d'orange 1 L",1,2.59,1,5.5
+"27/09/2026 15:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-995C2F,11.66,2000000000011,"Lait demi-écrémé 1 L",2,2.9,0.58,5.5
+"27/09/2026 15:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-995C2F,11.66,2000000000080,"Bananes 1 kg",2,4.78,,5.5
+"27/09/2026 15:19",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-995C2F,11.66,2000000000073,"Yaourts nature x4",2,3.98,,5.5
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000158,"Wrap poulet",1,4.9,,10
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000141,"Salade composée",2,10.4,,10
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000202,"Papier toilette x6",1,3.49,,20
+"27/09/2026 15:36",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9160136,27.31,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"27/09/2026 17:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D73A16,15.87,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"27/09/2026 17:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D73A16,15.87,2000000000196,"Piles AA x4",1,5.99,,20
+"27/09/2026 17:53",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D73A16,15.87,2000000000196,"Piles AA x4",1,5.99,1.2,20
+"27/09/2026 19:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5953747,7.96,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"27/09/2026 19:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5953747,7.96,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"27/09/2026 19:01",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5953747,7.96,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"27/09/2026 19:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-086BA6,5.2,2000000000141,"Salade composée",1,5.2,,10
+"27/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2537163,14.75,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"27/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2537163,14.75,2000000000066,"Pain de mie complet",2,4.98,1,5.5
+"27/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2537163,14.75,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"27/09/2026 19:40",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2537163,14.75,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"27/09/2026 20:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5218621,20.77,2000000000196,"Piles AA x4",1,5.99,,20
+"27/09/2026 20:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5218621,20.77,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"27/09/2026 20:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5218621,20.77,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"27/09/2026 20:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5218621,20.77,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"27/09/2026 20:22",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5218621,20.77,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"27/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2259317,7.49,2000000000219,"Dentifrice 75 ml",1,2.29,0.46,20
+"27/09/2026 21:18",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2259317,7.49,2000000000141,"Salade composée",1,5.2,,10
+"27/09/2026 21:43",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3824042,3.29,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"28/09/2026 10:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0C57F,17.67,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"28/09/2026 10:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0C57F,17.67,2000000000202,"Papier toilette x6",1,3.49,,20
+"28/09/2026 10:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0C57F,17.67,2000000000158,"Wrap poulet",1,4.9,,10
+"28/09/2026 10:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0C57F,17.67,2000000000141,"Salade composée",1,5.2,,10
+"28/09/2026 10:31",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-D0C57F,17.67,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"28/09/2026 13:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3749184,6.93,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"28/09/2026 13:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3749184,6.93,2000000000035,"Eau minérale 1,5 L",2,1.78,,5.5
+"28/09/2026 13:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3749184,6.93,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"28/09/2026 13:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3749184,6.93,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"28/09/2026 13:30",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1142704,3.29,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"28/09/2026 14:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9793226,10.73,2000000000127,"Chips nature 150 g",2,3.78,,5.5
+"28/09/2026 14:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9793226,10.73,2000000000172,"Bière blonde 50 cl",1,2.45,1,20
+"28/09/2026 14:09",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9793226,10.73,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"28/09/2026 14:37",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9777925,7.09,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"28/09/2026 14:37",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9777925,7.09,2000000000141,"Salade composée",1,5.2,,10
+"28/09/2026 15:43",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-37D1E8,4.58,2000000000219,"Dentifrice 75 ml",2,4.58,1,20
+"28/09/2026 17:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-08B60B,7.79,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"28/09/2026 17:14",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-08B60B,7.79,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"28/09/2026 17:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-3D3613,2.49,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"28/09/2026 18:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-626D45,7.07,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"28/09/2026 18:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-626D45,7.07,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"28/09/2026 18:27",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-626D45,7.07,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"28/09/2026 19:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B74C7C,15.66,2000000000080,"Bananes 1 kg",1,2.39,1,5.5
+"28/09/2026 19:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B74C7C,15.66,2000000000196,"Piles AA x4",2,11.98,2.4,20
+"28/09/2026 19:17",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-B74C7C,15.66,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"28/09/2026 20:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A4E8DC,14.93,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"28/09/2026 20:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A4E8DC,14.93,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"28/09/2026 20:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A4E8DC,14.93,2000000000097,"Riz basmati 1 kg",2,6.58,,5.5
+"28/09/2026 21:09",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-95298D,2.29,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000165,"Lasagnes à réchauffer",2,11.8,,10
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000059,"Tablette chocolat noir 100 g",2,4.38,,5.5
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000158,"Wrap poulet",1,4.9,,10
+"28/09/2026 21:44",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9A02FD,29.35,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"28/09/2026 21:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7E09D,6.39,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"28/09/2026 21:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7E09D,6.39,2000000000202,"Papier toilette x6",1,3.49,,20
+"28/09/2026 21:51",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-C7E09D,6.39,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"28/09/2026 22:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6275076,8.22,2000000000172,"Bière blonde 50 cl",1,2.45,0.49,20
+"28/09/2026 22:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6275076,8.22,2000000000073,"Yaourts nature x4",1,1.99,0.4,5.5
+"28/09/2026 22:12",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6275076,8.22,2000000000226,"Liquide vaisselle 500 ml",2,3.78,,5.5
+"28/09/2026 23:55",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-2122198,1.45,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"29/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8EF008,19.56,2000000000202,"Papier toilette x6",1,3.49,,20
+"29/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8EF008,19.56,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"29/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8EF008,19.56,2000000000196,"Piles AA x4",1,5.99,,20
+"29/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8EF008,19.56,2000000000141,"Salade composée",1,5.2,,10
+"29/09/2026 11:07",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-8EF008,19.56,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"29/09/2026 13:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6DAD35,6.79,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"29/09/2026 13:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-6DAD35,6.79,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"29/09/2026 14:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6645117,19.18,2000000000141,"Salade composée",1,5.2,,10
+"29/09/2026 14:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6645117,19.18,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"29/09/2026 14:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6645117,19.18,2000000000202,"Papier toilette x6",1,3.49,,20
+"29/09/2026 14:56",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-6645117,19.18,2000000000196,"Piles AA x4",1,5.99,,20
+"29/09/2026 16:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67241D,9.7,2000000000141,"Salade composée",1,5.2,,10
+"29/09/2026 16:30",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-67241D,9.7,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"29/09/2026 17:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5169878,12.92,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"29/09/2026 17:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5169878,12.92,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"29/09/2026 17:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5169878,12.92,2000000000172,"Bière blonde 50 cl",1,2.45,0.49,20
+"29/09/2026 17:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5169878,12.92,2000000000141,"Salade composée",1,5.2,,10
+"29/09/2026 17:52",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-5169878,12.92,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"29/09/2026 17:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-178C13,9.76,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"29/09/2026 17:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-178C13,9.76,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"29/09/2026 17:54",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-178C13,9.76,2000000000028,"Pâtes coquillettes 500 g",2,2.58,,5.5
+"29/09/2026 18:30",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-A08BFE,9.38,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"29/09/2026 18:30",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-A08BFE,9.38,2000000000165,"Lasagnes à réchauffer",1,5.9,1.18,10
+"29/09/2026 18:30",CANCELLED,"Uber Eats","Trois Lunes - Centre",UE-A08BFE,9.38,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"29/09/2026 22:03",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-2DCBF3,2.39,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"30/09/2026 10:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7197277,3.48,2000000000035,"Eau minérale 1,5 L",1,0.89,0.18,5.5
+"30/09/2026 10:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-7197277,3.48,2000000000110,"Jus d'orange 1 L",1,2.59,,5.5
+"30/09/2026 11:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9770030,14.86,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"30/09/2026 11:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9770030,14.86,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"30/09/2026 11:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9770030,14.86,2000000000165,"Lasagnes à réchauffer",1,5.9,,10
+"30/09/2026 11:05",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9770030,14.86,2000000000080,"Bananes 1 kg",2,4.78,1,5.5
+"30/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F212D7,8.52,2000000000028,"Pâtes coquillettes 500 g",1,1.29,0.26,5.5
+"30/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F212D7,8.52,2000000000172,"Bière blonde 50 cl",1,2.45,,20
+"30/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F212D7,8.52,2000000000066,"Pain de mie complet",1,2.49,,5.5
+"30/09/2026 12:21",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-F212D7,8.52,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"30/09/2026 12:22",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3077969,6.92,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"30/09/2026 12:22",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3077969,6.92,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"30/09/2026 12:22",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3077969,6.92,2000000000080,"Bananes 1 kg",1,2.39,,5.5
+"30/09/2026 12:22",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-3077969,6.92,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"30/09/2026 14:28",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1121711,6.07,2000000000042,"Céréales au chocolat 375 g",1,3.89,,5.5
+"30/09/2026 14:28",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1121711,6.07,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"30/09/2026 14:28",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-1121711,6.07,2000000000035,"Eau minérale 1,5 L",1,0.89,,5.5
+"30/09/2026 15:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A17017,8.66,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"30/09/2026 15:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A17017,8.66,2000000000219,"Dentifrice 75 ml",2,4.58,,20
+"30/09/2026 15:02",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-A17017,8.66,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"30/09/2026 16:05",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-6428716,7.64,2000000000011,"Lait demi-écrémé 1 L",2,2.9,,5.5
+"30/09/2026 16:05",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-6428716,7.64,2000000000097,"Riz basmati 1 kg",1,3.29,,5.5
+"30/09/2026 16:05",CANCELLED,Deliveroo,"Trois Lunes - Centre",DR-6428716,7.64,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"30/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9ABEE9,11.53,2000000000059,"Tablette chocolat noir 100 g",1,2.19,1,5.5
+"30/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9ABEE9,11.53,2000000000103,"Soda cola 33 cl",1,1.35,,5.5
+"30/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9ABEE9,11.53,2000000000134,"Sandwich jambon-beurre",1,4.5,0.9,10
+"30/09/2026 16:26",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-9ABEE9,11.53,2000000000202,"Papier toilette x6",1,3.49,,20
+"30/09/2026 18:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9553236,11.52,2000000000011,"Lait demi-écrémé 1 L",1,1.45,,5.5
+"30/09/2026 18:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9553236,11.52,2000000000127,"Chips nature 150 g",1,1.89,,5.5
+"30/09/2026 18:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9553236,11.52,2000000000196,"Piles AA x4",1,5.99,,20
+"30/09/2026 18:31",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-9553236,11.52,2000000000059,"Tablette chocolat noir 100 g",1,2.19,,5.5
+"30/09/2026 18:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD1B4D,11.29,2000000000158,"Wrap poulet",1,4.9,1,10
+"30/09/2026 18:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD1B4D,11.29,2000000000134,"Sandwich jambon-beurre",1,4.5,,10
+"30/09/2026 18:48",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-FD1B4D,11.29,2000000000226,"Liquide vaisselle 500 ml",1,1.89,,5.5
+"30/09/2026 20:10",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3352457,6.19,2000000000028,"Pâtes coquillettes 500 g",1,1.29,,5.5
+"30/09/2026 20:10",COMPLETED,Deliveroo,"Trois Lunes - Centre",DR-3352457,6.19,2000000000158,"Wrap poulet",1,4.9,,10
+"30/09/2026 21:05",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-E65FB2,2.29,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"30/09/2026 23:11",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-029E76,2.29,2000000000219,"Dentifrice 75 ml",1,2.29,,20
+"30/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-288275,23.57,2000000000189,"Lessive liquide 1,5 L",1,7.99,,20
+"30/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-288275,23.57,2000000000158,"Wrap poulet",1,4.9,,10
+"30/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-288275,23.57,2000000000073,"Yaourts nature x4",1,1.99,,5.5
+"30/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-288275,23.57,2000000000141,"Salade composée",1,5.2,,10
+"30/09/2026 23:42",COMPLETED,"Uber Eats","Trois Lunes - Centre",UE-288275,23.57,2000000000202,"Papier toilette x6",1,3.49,,20

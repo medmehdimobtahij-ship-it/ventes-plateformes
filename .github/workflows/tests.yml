@@ -1,0 +1,21 @@
+# Tests : calcul (fonctions PHP), vrai serveur PHP contre de faux Microsoft / SharePoint / Pennylane, et mode démo.
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: windows-latest  # l'outil tourne sur les postes Windows du cabinet
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: curl, openssl, zip, mbstring, simplexml
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pytest requests cryptography openpyxl
+      - run: python -m pytest tests -q

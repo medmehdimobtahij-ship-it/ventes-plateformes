@@ -1,0 +1,20 @@
+{
+  "_lisez_moi": "Copiez ce fichier en config.json (ignoré par git) et adaptez-le. Chaque clé peut aussi venir d'une variable d'environnement VP_<CLE en majuscules> (ex. VP_MICROSOFT_CLIENT_ID). Tout est facultatif : sans Microsoft, les exports se déposent à la main ; sans Pennylane (jeton collé dans Paramètres), l'écriture se télécharge en CSV. Les valeurs ci-dessous sont des exemples.",
+  "demo": false,
+  "comptes": "claire:Claire Moreau,paul:Paul Bernard",
+  "journal": "VT",
+  "compte_client_uber_eats": "411UBER",
+  "compte_client_deliveroo": "411DELIV",
+  "compte_ventes_20": "707200",
+  "compte_ventes_10": "707100",
+  "compte_ventes_5_5": "707055",
+  "compte_tva_20": "4457120",
+  "compte_tva_10": "4457110",
+  "compte_tva_5_5": "4457105",
+  "microsoft_client_id": "",
+  "microsoft_tenant": "organizations",
+  "adresse_site": "",
+  "sharepoint": "https://votre-domaine.sharepoint.com/sites/cabinet/Documents partages",
+  "sharepoint_clients": "Dossiers/Comptabilite",
+  "sharepoint_exports": "{client}/{annee}/Comptable"
+}
